@@ -1,11 +1,19 @@
-# Título del trabajo
+# El juego de la Ruleta
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Juego que consiste en llegar al máximo de niveles que te permite el juego. Para ello debes parar la ruleta en el led central gracias a un pulsador. Los leds se mueven más rápido a medida que vas acertando los niveles. Si fallas, vuelves a empezar, por tanto al nivel 1.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Pedro Menchero Meco; pedro.menchero.meco@alumnos.upm.es
+Daniel Parilla Murias; daniel.parrillam@alumnos.upm.es
+Miguel Lallana Pérez; miguel.lallanap@aalumnos.upm.es
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Aprender a programar en otros lenguajes.
+
+Interactuar con elementos del hardware(protoboard,arduino,...).
+
+Cooperar en equipo.
+
+Ser imaginativos y lograr plasmar las ideas mediante la programación.
