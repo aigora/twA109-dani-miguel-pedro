@@ -5,7 +5,9 @@ Juego que consiste en llegar al máximo de niveles que te permite el juego. Para
 ## Integrantes del equipo
 
 Pedro Menchero Meco; pedromencheromeco
+
 Daniel Parilla Murias; danielparrillam
+
 Miguel Lallana Pérez; miguellallanap
 
 ## Objetivos del trabajo
