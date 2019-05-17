@@ -1,6 +1,6 @@
-# El juego de la Ruleta
+# Termostato
 
-Juego que consiste en llegar al máximo de niveles que te permite el juego. Para ello debes parar la ruleta en el led central gracias a un pulsador. Los leds se mueven más rápido a medida que vas acertando los niveles. Si fallas, vuelves a empezar, por tanto al nivel 1.
+Reproduciremos el funcionamieto de un termotato doméstico, sustituyendo la calefacción por un LED. Éste se iluminará cuando la tempertura ambiente (registrada mediante un sensor térmico) sea menor que la requerida previamente, siendo ésta también regulable. Todo esto vendrá registrado en una pantalla LCD.
 
 ## Integrantes del equipo
 
