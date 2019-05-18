@@ -1,6 +1,6 @@
 # Termostato
 
-Reproduciremos el funcionamieto de un termotato doméstico, sustituyendo la calefacción por un LED. Éste se iluminará cuando la tempertura ambiente (registrada mediante un sensor térmico) sea menor que la requerida previamente, siendo ésta también regulable. Todo esto vendrá registrado en una pantalla LCD.
+Reproduciremos el funcionamieto de un termotato doméstico, sustituyendo la calefacción por un LED. Éste se iluminará cuando la tempertura ambiente (registrada mediante un sensor térmico) sea menor que la requerida previamente, siendo ésta también regulable. Todo esto, además de la humedad, vendrá registrado en una pantalla LCD.
 
 ## Integrantes del equipo
 
